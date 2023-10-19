@@ -1,4 +1,4 @@
-# Hello there! 👋 
+# Hello there! 🖖 
 
 I'm [Will Laws](https://laws.rocks), a Senior AWS Solutions Architect based in Sydney, NSW. You can learn more about me on [my personal website](https://laws.rocks) and [LinkedIn](https://www.linkedin.com/in/lwsw/).
 
