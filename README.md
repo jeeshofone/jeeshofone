@@ -4,6 +4,8 @@ I'm [Will Laws](https://laws.rocks), a Senior AWS Solutions Architect based in S
 
 ## 📝 Latest Blog Posts
 
+- [Regional to Global - Adapting Amazon Location Service for Worldwide Use](https://www.123cloud.st/p/regional-to-global-adapting-amazon)
+- [The Sun Never Sets on 5pm](https://www.123cloud.st/p/the-sun-never-sets-on-5pm-part-0)
 - [Blue/Green Deployments: The New Norm for MySQL Upgrades and Schema Changes](https://www.123cloud.st/p/bluegreen-deployments-the-new-norm)
 - [The Unexpectedly Direct Path to Building the APC ECU-3 Solar Data Collector](https://www.123cloud.st/p/the-unexpectedly-direct-path-to-building)
 - [Tech Debt is Good](https://www.123cloud.st/p/tech-debt-is-good)
