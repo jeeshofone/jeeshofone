@@ -24,4 +24,4 @@ Feel free to check out my [blog](https://123cloud.st) for more articles.
 ## 📫 How to reach me
 
 - Email: [will@laws.rocks](mailto:will@laws.rocks)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/lwsw/)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/lwsw/)
