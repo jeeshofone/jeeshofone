@@ -4,6 +4,8 @@ I'm [Will Laws](https://laws.rocks), a Senior AWS Solutions Architect based in S
 
 ## 📝 Latest Blog Posts
 
+- [The complete reference guide to basic website hosting on AWS](https://www.123cloud.st/p/the-complete-reference-guide-to-basic)
+- [How concerned should I be about flies?](https://www.123cloud.st/p/how-concerned-should-i-be-about-flies)
 - [Regional to Global - Adapting Amazon Location Service for Worldwide Use](https://www.123cloud.st/p/regional-to-global-adapting-amazon)
 - [The Sun Never Sets on 5pm](https://www.123cloud.st/p/the-sun-never-sets-on-5pm-part-0)
 - [Blue/Green Deployments: The New Norm for MySQL Upgrades and Schema Changes](https://www.123cloud.st/p/bluegreen-deployments-the-new-norm)
@@ -16,6 +18,10 @@ Feel free to check out my [blog](https://123cloud.st) for more articles.
 
 - [FindYourFivePM.com](https://findyourfivepm.com) - A ~~simple~~ web app that knows over 198,000 cities and towns around the world, and can tell you where it is currently 5pm.
 - [FindYourFivePM Blog](https://findyourfivepm.com/blog) - A blog about timezones, and the challenges of working with them.
+
+## ᵺ - Use Medium and Want to Generate ~~strikethrough~~ Text for your posts?
+
+- [StrikeThroughTextOnMedium.com](https://strikethroughtextonmedium.com)
 
 ## 📈 GitHub Stats
 
