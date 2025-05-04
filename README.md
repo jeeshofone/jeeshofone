@@ -7,6 +7,7 @@ I'm [Will Laws](https://laws.rocks), a Senior AWS Solutions Architect based in S
 - [**FindYourFivePM.com**](https://findyourfivepm.com): A web app that knows over 198,000 cities and towns worldwide and tells you where it's currently 5 PM. ([Blog about the project](https://findyourfivepm.com/blog))
 - [**SHRCalculator.com**](https://shrcalculator.com): An advanced RAID calculator for Synology NAS users and IT professionals, supporting large drives (up to 32TB) and various RAID types including SHR/SHR-2.
 - [**StrikeThroughTextOnMedium.com**](https://strikethroughtextonmedium.com): A simple utility to generate ~~strikethrough~~ text for Medium articles.
+- [**LocationServiceGateway**](https://github.com/jeeshofone/LocationServiceGateway): Deploys Amazon Location Service globally with low-latency routing via API Gateway and CloudFormation. ([Blog Post](https://www.123cloud.st/p/regional-to-global-adapting-amazon))
 
 ## 🤝 Contributions to Other Projects
 
