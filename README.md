@@ -20,7 +20,6 @@ Beyond my own repositories, I enjoy contributing back to the open-source communi
 - **[rix1337/docker-ripper](https://github.com/rix1337/docker-ripper):** Implemented a major feature enhancement and refactoring effort ([PR #108](https://github.com/rix1337/docker-ripper/pull/108)). This involved adding numerous configuration options via environment variables (controlling output paths, ISO creation, timestamps, eject behavior, etc.), significantly refactoring the core bash script for maintainability, optimizing the Dockerfiles for reduced image size, and expanding the documentation with detailed usage instructions.
 - **[make-all/tuya-local](https://github.com/make-all/tuya-local):** Helped identify issues with device compatibility ([Issue #1951](https://github.com/make-all/tuya-local/issues/1951)).
 
-*(Note: This list highlights some key public contributions.)*
 
 ## 🚧 Work in Progress
 
