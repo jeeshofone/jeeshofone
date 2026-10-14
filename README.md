@@ -17,13 +17,9 @@ I'm [Will Laws](https://laws.rocks), a Senior AWS Solutions Architect based in S
 
 Beyond my own repositories, I enjoy contributing back to the open-source community. Some projects I've contributed to include:
 
+- **[kirodotdev/KiroCrew](https://github.com/kirodotdev/KiroCrew):** A persistent workspace for development work that self-improves and continues beyond one session ([kiro.dev/crew](https://kiro.dev/crew/)). I'm a regular contributor, with 100+ merged pull requests.
 - **[rix1337/docker-ripper](https://github.com/rix1337/docker-ripper):** Implemented a major feature enhancement and refactoring effort ([PR #108](https://github.com/rix1337/docker-ripper/pull/108)). This involved adding numerous configuration options via environment variables (controlling output paths, ISO creation, timestamps, eject behavior, etc.), significantly refactoring the core bash script for maintainability, optimizing the Dockerfiles for reduced image size, and expanding the documentation with detailed usage instructions.
 - **[make-all/tuya-local](https://github.com/make-all/tuya-local):** Helped identify issues with device compatibility ([Issue #1951](https://github.com/make-all/tuya-local/issues/1951)).
-
-
-## 🚧 Work in Progress
-
-- [**ApocaCache**](https://github.com/jeeshofone/ApocaCache): Your containerized knowledge bunker for the apocalypse. An automated system for maintaining offline Wikipedia and other educational content via Kiwix.
 
 ## 📝 Blog - 123 Cloud Street
 
